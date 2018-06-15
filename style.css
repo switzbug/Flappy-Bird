@@ -1,0 +1,19 @@
+#gameOver,#playHUD{
+  position: absolute;
+  visibility: hidden;
+}
+h1,h3{
+  font-family: 'Josefin Sans', sans-serif;
+  color:#fb9b4b;
+  text-align: center;
+}
+h1{
+  font-size: 60px;
+}
+#restartButton{
+  border: 2px solid white;
+  border-radius: 10px;
+}
+#restartButton:hover{
+  background-color: #bbbbbb
+}
